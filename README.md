@@ -10,9 +10,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8FA3&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
-ยินดีต้อนรับสู่หน้าโปรไฟล์ GitHub ของผมครับ! ผมเป็นนักพัฒนาที่สนใจในการสร้างเว็บแอปพลิเคชันและการแก้ปัญหาด้วยโค้ด 
+ยินดีต้อนรับสู่หน้าโปรไฟล์ GitHub ของผมครับ! <br>
+ผมเป็นนักพัฒนาที่สนใจในการสร้างเว็บแอปพลิเคชันและการแก้ปัญหาด้วยโค้ด 
 
-About Me
+<h3>About Me</h3>
+<b>Loves:</b> 📺 Anime, 🎮 Games, 📚 Manga, 🏃‍♂️ Sport, 🎵 Song<br>
+<b>IG:</b> <a href="https://www.instagram.com/shibakubpee/">@shibakubpee</a>
 
 - 🔭 **กำลังพัฒนาโปรเจกต์:** กำลังคิดโปรเจกต์ใหม่ๆ อยู่ครับ 💡
 - 🌱 **กำลังเรียนรู้:** TypeScript, Next.js และ Cloud Architecture
@@ -20,6 +23,9 @@ About Me
 - 📫 **ช่องทางติดต่อ:** [thachapat.t@ku.th](mailto:your.email@example.com)
 
 ---
+
+<!-- 📍 วางรูปตรงนี้ (ลอยชิดขวาคู่กับข้อความแนะนำตัว) -->
+<img align="right" width="196" height="200" alt="hello-hihihi" src="https://github.com/user-attachments/assets/1cc8bc79-8af3-4880-9b4d-900f757f47f0" />
 
 ### 🛠️ Tech Stack & Tools
 
