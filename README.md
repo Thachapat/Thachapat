@@ -1,7 +1,8 @@
-<!-- Banner หัวข้อสไตล์ญี่ปุ่น -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:f7768e&height=200&section=header&text=ようこそ%20|%20WELCOME&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=「%20Uma Racing%20•%20Creating%20the%20Future%20with%20Code%20」&descAlignY=60&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffb7c5,50:ff8fa3,100:ffc8dd&height=180§ion=header&text=🌸%20いらっしゃいませ%20🌸&fontSize=40&fontColor=2b2d42&animation=twinkling&fontAlignY=42&desc=Welcome%20to%20my%20GitHub%20Space&descAlignY=65&descSize=16" width="100%"/>
 </p>
+
+# สวัสดีครับ, ผม ธชาพัฒน์ 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
