@@ -1,3 +1,4 @@
+
 <!-- Banner หัวข้อสไตล์ญี่ปุ่น -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:f7768e&height=200&section=header&text=ようこそ%20|%20WELCOME&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=「%20コードで未来を創る%20•%20Creating%20the%20Future%20with%20Code%20」&descAlignY=60&descSize=16" width="100%"/>
@@ -5,8 +6,7 @@
 
 # HELLO, I'M THACHAPAT 👋
 
-<!-- 📍 วางรูปตรงนี้ (ลอยชิดขวาคู่กับข้อความแนะนำตัว) -->
-<img align="right" width="196" height="200" alt="hello-hihihi" src="https://github.com/user-attachments/assets/1cc8bc79-8af3-4880-9b4d-900f757f47f0" />
+<img align="right" width="350" height="350" alt="opera-o-tm-opera-o" src="https://github.com/user-attachments/assets/5fe7fcfe-fd21-4cfd-86f7-5c9d66848b8b" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8FA3&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
