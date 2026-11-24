@@ -5,7 +5,7 @@
 
 # HELLO, I'M THACHAPAT 👋
 
-<img align="right" width="330" height="330" alt="opera-o-tm-opera-o" src="https://github.com/user-attachments/assets/5fe7fcfe-fd21-4cfd-86f7-5c9d66848b8b" />
+<img align="right" width="300" height="300" alt="opera-o-tm-opera-o" src="https://github.com/user-attachments/assets/5fe7fcfe-fd21-4cfd-86f7-5c9d66848b8b" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8FA3&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
