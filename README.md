@@ -25,7 +25,7 @@
 ---
 
 <!-- 📍 วางรูปตรงนี้ (ลอยชิดขวาคู่กับข้อความแนะนำตัว) -->
-<img align="right" width="196" height="200" alt="hello-hihihi" src="https://github.com/user-attachments/assets/1cc8bc79-8af3-4880-9b4d-900f757f47f0" />
+<img align="right" width="196" height="196" alt="hello-hihihi" src="https://github.com/user-attachments/assets/1cc8bc79-8af3-4880-9b4d-900f757f47f0" />
 
 ### 🛠️ Tech Stack & Tools
 
