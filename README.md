@@ -1,3 +1,4 @@
+<img width="304" height="374" alt="meisho-doto-doto" src="https://github.com/user-attachments/assets/d780bafa-23f4-42b9-9f9a-f114f40be9e1" /><img width="304" height="374" alt="meisho-doto-doto" src="https://github.com/user-attachments/assets/e3c9ee69-db30-4293-aab5-0d42b9ad7e68" /><img width="304" height="374" alt="meisho-doto-doto" src="https://github.com/user-attachments/assets/410acd6b-f9c2-4f8b-967f-f1a4b5386bbc" />
 <!-- 1. แบนเนอร์ซากุระด้านบน -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffb7c5,50:ff8fa3,100:ffc8dd&height=160§ion=header&text=🌸%20いらっしゃいませ%20🌸&fontSize=38&fontColor=2b2d42&animation=twinkling&fontAlignY=45&desc=Yahallo%20~%20Welcome%20to%20Thachapat's%20GitHub&descAlignY=68&descSize=15" width="100%"/>
@@ -25,7 +26,8 @@
 
 <!-- กราฟิก Meisho Doto คั่นสายตาตรงกลาง -->
 <p align="center">
-  <img src="https://tenor.com/view/meisho-doto-doto-meisho-uma-musume-umamusume-gif-8142381976815767837.gif" width="220" alt="Meisho Doto"/>
+  <img src="<img width="304" height="374" alt="meisho-doto-doto" src="https://github.com/user-attachments/assets/82b3ba25-d217-407c-9896-b24a62a3e54f" />
+" width="220" alt="Meisho Doto"/>
 </p>
 
 <br/>
@@ -41,3 +43,11 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="
+
+
+
+
+
+
+
+
