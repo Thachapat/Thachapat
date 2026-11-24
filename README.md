@@ -1,46 +1,24 @@
-# สวัสดีครับ, ผม ธชาพัฒน์ 👋
+<!-- Banner mina san konichiwa -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:f7768e&height=200&section=header&text=ようこそ%20|%20WELCOME&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=「%20コードで未来を創る%20•%20Creating%20the%20Future%20with%20Code%20」&descAlignY=60&descSize=16" width="100%"/>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
-
-ยินดีต้อนรับสู่หน้าโปรไฟล์ GitHub ของผมครับ! ผมเป็นนักพัฒนาที่สนใจในการสร้างเว็บแอปพลิเคชันและการแก้ปัญหาด้วยโค้ด 
-
-- 🔭 **กำลังพัฒนาโปรเจกต์:** [กำลัคิดโปรเจกต์](https://github.com/username/project)
-- 🌱 **กำลังเรียนรู้:** TypeScript, Next.js และ Cloud Architecture
-- 💬 **ปรึกษาหรือพูดคุยเรื่อง:** Web Development, UI/UX หรือเทคโนโลยีใหม่ๆ
-- 📫 **ช่องทางติดต่อ:** thachapa.t@ku.th(mailto:thachapat.t@ku.th)
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frameworks & Libraries:**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Tools & Databases:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thachapat&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thachapat&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+<!-- ข้อความพิมพ์ดีดอัตโนมัติ -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7768E&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%5B%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%84%E0%B8%B8%E0%B8%93%5D+%E3%81%A7%E3%81%99+%F0%9F%8C%B8;Full-Stack+Developer+%7C+Software+Engineer;Building+Clean+%26+Scalable+Systems+%E2%9A%A1" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-### 🌐 ติดตามผมได้ที่
+### 🌸 自己紹介 • About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+```yaml
+name: Thachapat
+location: "Bangkok, Thailand 🇹🇭"
+role: "Software Developer"
+languages: ["Thai", "English", "Japanese (Beginner)"]
+currently_working_on: "[ชื่อโปรเจกต์ที่กำลังทำ]"
+hobbies: ["Coding", "Anime & Manga", "Gaming", "Coffee"]
+motto: "七転び八起き (ล้มเจ็ดครั้ง ลุกแปดครั้ง)"
