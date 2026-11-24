@@ -72,5 +72,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
 
+<img width="2048" height="683" alt="HVtzPT8XsAA0O_x" src="https://github.com/user-attachments/assets/614da1c7-8b40-4367-b4d9-8e0b04ffcdc3" />
 
 
