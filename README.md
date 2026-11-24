@@ -25,7 +25,7 @@
 
 <!-- กราฟิกอนิเมะคั่นสายตาตรงกลาง -->
 <p align="center">
-  <img src="https://media.tenor.com/1_2188244140466838629/menhera-chan-anime.gif" width="220" alt="Anime Chibi"/>
+  <img src="https://tenor.com/th/search/musume-gifs" width="220" alt="Anime Chibi"/>
 </p>
 
 <br/>
