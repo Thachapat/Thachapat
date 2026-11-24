@@ -7,7 +7,7 @@
 - 🔭 **กำลังพัฒนาโปรเจกต์:** [กำลัคิดโปรเจกต์](https://github.com/username/project)
 - 🌱 **กำลังเรียนรู้:** TypeScript, Next.js และ Cloud Architecture
 - 💬 **ปรึกษาหรือพูดคุยเรื่อง:** Web Development, UI/UX หรือเทคโนโลยีใหม่ๆ
-- 📫 **ช่องทางติดต่อ:** [your.email@example.com](mailto:your.email@example.com)
+- 📫 **ช่องทางติดต่อ:** thachapa.t@ku.th(mailto:thachapat.t@ku.th)
 
 ---
 
