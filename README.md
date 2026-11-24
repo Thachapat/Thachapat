@@ -1,7 +1,6 @@
-
-<!-- Banner หัวข้อสไตล์ญี่ปุ่น -->
+<!-- Banner หัวข้อสไตล์ญี่ปุ่น | ธีม Oguri Cap -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:7aa2f7,100:f7768e&height=200&section=header&text=ようこそ%20|%20WELCOME&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=「%20コードで未来を創る%20•%20Creating%20the%20Future%20with%20Code%20」&descAlignY=60&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d2f6e,50:2f6fd6,100:f2a7c3&height=200&section=header&text=ようこそ%20|%20WELCOME&fontSize=45&fontColor=ffffff&stroke=3d2f6e&strokeWidth=2&animation=fadeIn&fontAlignY=38&desc=「%20コードで未来を創る%20•%20Creating%20the%20Future%20with%20Code%20」&descColor=f0cf4a&descAlignY=60&descSize=16" width="100%"/>
 </p>
 
 # HELLO, I'M THACHAPAT 👋
@@ -16,6 +15,9 @@
 <h3>About Me</h3>
 <b>Loves:</b> 📺 Anime, 🎮 Games, 📚 Manga, 🏃‍♂️ Sport, 🎵 Song<br>
 <b>IG:</b> <a href="https://www.instagram.com/shibakubpee/">@shibakubpee</a>
+
+
+
 
 - 🔭 **กำลังพัฒนาโปรเจกต์:** กำลังคิดโปรเจกต์ใหม่ๆ อยู่ครับ 💡
 - 🌱 **กำลังเรียนรู้:** TypeScript, Next.js และ Cloud Architecture
@@ -43,6 +45,12 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Design & Creative:**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
