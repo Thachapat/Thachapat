@@ -4,11 +4,11 @@
 
 # สวัสดีครับ, ผม ธชาพัฒน์ 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF8FA3&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Lifelong+Learner)](https://git.io/typing-svg)
 
 ยินดีต้อนรับสู่หน้าโปรไฟล์ GitHub ของผมครับ! ผมเป็นนักพัฒนาที่สนใจในการสร้างเว็บแอปพลิเคชันและการแก้ปัญหาด้วยโค้ด 
 
-- 🔭 **กำลังพัฒนาโปรเจกต์:** [กำลัคิดโปรเจกต์](https://github.com/username/project)
+- 🔭 **กำลังพัฒนาโปรเจกต์:** กำลังคิดโปรเจกต์ใหม่ๆ อยู่ครับ 💡
 - 🌱 **กำลังเรียนรู้:** TypeScript, Next.js และ Cloud Architecture
 - 💬 **ปรึกษาหรือพูดคุยเรื่อง:** Web Development, UI/UX หรือเทคโนโลยีใหม่ๆ
 - 📫 **ช่องทางติดต่อ:** [your.email@example.com](mailto:your.email@example.com)
@@ -36,10 +36,9 @@
 
 ### 📊 GitHub Stats
 
-
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thachapat&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thachapat&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thachapat&show_icons=true&theme=rose_pine" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thachapat&layout=compact&theme=rose_pine" alt="Top Languages" height="170" />
 </p>
 
 ---
