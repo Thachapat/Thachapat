@@ -1,5 +1,6 @@
+<!-- 1. แบนเนอร์ซากุระด้านบน -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffb7c5,50:ff8fa3,100:ffc8dd&height=180§ion=header&text=🌸%20いらっしゃいませ%20🌸&fontSize=40&fontColor=2b2d42&animation=twinkling&fontAlignY=42&desc=Welcome%20to%20my%20GitHub%20Space&descAlignY=65&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ffb7c5,50:ff8fa3,100:ffc8dd&height=160§ion=header&text=🌸%20いらっしゃいませ%20🌸&fontSize=38&fontColor=2b2d42&animation=twinkling&fontAlignY=45&desc=Yahallo%20~%20Welcome%20to%20Thachapat's%20GitHub&descAlignY=68&descSize=15" width="100%"/>
 </p>
 
 # สวัสดีครับ, ผม ธชาพัฒน์ 👋
